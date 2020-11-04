@@ -8,3 +8,7 @@ build/
 **.vcxproj
 **.vcxproj.filters
 **.vcxproj.user
+
+#Eternal specific
+bin
+bin-int
