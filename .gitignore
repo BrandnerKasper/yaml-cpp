@@ -9,6 +9,6 @@ build/
 **.vcxproj.filters
 **.vcxproj.user
 
-#Eternal
+#Eternal specific
 bin
 bin-int
